@@ -6,14 +6,14 @@ The annual Percentage Rate of Interest Charged on New-Car Loans at Nine of the L
 
 ### Table of content:
 -[Tools](#Tools)
--[Hypothesis Analysis](#Hypothesis Analysis)
+-[Hypothesis Analysis](#Hypothesis_Analysis)
 -[Finding](#Finding)
 -[Conclusion](#Conclusion)
 
 ### Tools
-Python :Python
+Python 💻
 
-### Hypothesis Analysis
+### Hypothesis_Analysis
 1. $H_0$: The mean interest rate in all six american cities is same
 2. $H_1$: The mean interest rate is different in atleast one of the six american cities
 
